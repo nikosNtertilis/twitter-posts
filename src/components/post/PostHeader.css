@@ -1,0 +1,23 @@
+.post-header {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+
+  justify-content: space-between;
+}
+.verified-badge {
+  width: auto;
+  height: 1em;
+
+  margin-left: 0.5em;
+}
+.twitter-circle {
+  width: auto;
+  height: 3em;
+  margin-right: 1em;
+}
+
+.twitter-logo {
+  width: auto;
+  height: 1em;
+}

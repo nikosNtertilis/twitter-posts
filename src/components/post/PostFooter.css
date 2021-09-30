@@ -1,0 +1,15 @@
+.post-footer {
+  width: 100%;
+  height: auto;
+
+  justify-content: space-between;
+}
+
+.info-img {
+  width: 0.7em;
+  height: 0.7em;
+
+  margin-right: 0.5em;
+
+  align-self: center;
+}

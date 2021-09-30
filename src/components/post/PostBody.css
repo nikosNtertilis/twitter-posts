@@ -1,0 +1,13 @@
+.post-body {
+  grid-row: auto;
+  width: fit-content;
+  height: auto;
+
+  padding: 1em;
+  overflow: hidden;
+
+  border: 0.13em solid lightgray;
+  border-radius: 2% / 2%;
+
+  background-color: white;
+}

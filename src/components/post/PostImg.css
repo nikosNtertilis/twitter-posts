@@ -1,0 +1,16 @@
+.post-img {
+  width: fit-content;
+  height: auto;
+
+  overflow: hidden;
+
+  flex-direction: column;
+
+  border: 0.13em solid lightgray;
+  border-radius: 0.5em / 0.5em;
+  margin-bottom: 1em;
+}
+
+.img-text {
+  margin: 1em;
+}
